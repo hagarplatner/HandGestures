@@ -7,3 +7,4 @@ Hand gestures used:
 - Heart
 
 ** to check project run it on 'VR Preview' - Can't package this specific project **
+using MetaXR plugin
