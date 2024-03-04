@@ -6,4 +6,4 @@ Hand gestures used:
 - Surf
 - Heart
 
-* to check project run it on 'VR Preview' - Can't package this specific project *
+** to check project run it on 'VR Preview' - Can't package this specific project **
