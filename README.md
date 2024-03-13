@@ -8,4 +8,7 @@ Hand gestures used:
 
 ** to check project run it on 'VR Preview' - Can't package this specific project **
 
-using MetaXR plugin
+Plugin Used in project:
+- MetaXR
+- Mixed Reality Utility Kit
+- Substance in UE5
