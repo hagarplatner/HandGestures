@@ -3,8 +3,8 @@ Hand gestures used:
 - Peace
 - Like
 - Rock
-- Surf
-- Heart
+- Ok
+- pointing
 
 Plugin Used in project:
 - MetaXR
